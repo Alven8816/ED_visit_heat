@@ -1,3 +1,3 @@
-This is analysis code for a manuscript entitled “Summer heat and emergency care: regional and temporal variations in vulnerability”. 
+This is the main code used for exposure–response analyses for a manuscript entitled “Summer heat and emergency care: regional and temporal variations in vulnerability”. 
 
 The example data is only used for code testing.
